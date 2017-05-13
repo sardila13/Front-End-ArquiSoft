@@ -183,7 +183,7 @@ Licensed under the BSD-2-Clause License.
       parseTime: true,
       postUnits: '',
       preUnits: '',
-      ymax: 'auto',
+      ymax: '220',
       ymin: 'auto 0',
       goals: [],
       goalStrokeWidth: 1.0,
